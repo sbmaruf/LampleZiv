@@ -1,5 +1,5 @@
-
-There is a problem regarding this ppt.
+This project was created back in 2015 for a academic course. You are welcome to contribute.
+There is a problem regarding this project.
 First is when the string ends with no unique[non mathcing] substring then I have just put the index of the substring and mark it with '#' character. You can use any character hare which will never occur in the  dataset.
 
 
